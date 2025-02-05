@@ -1,0 +1,104 @@
+body{
+    background: linear-gradient(to bottom, #ff7e5f, #feb47b);
+    background-size: cover;
+
+}
+.mitri{
+width: 250px;
+height: 250px;
+margin: auto;
+background-image: url(gift.png);
+background-size: cover;
+transition: 1s;
+margin-top: 100px;
+}
+.mitri:hover{
+    scale: 1.1;
+}
+.tog{
+width: 250px;
+height: 250px;
+margin: auto;
+background-image: url(gift.png);
+background-size: cover;
+transition: 1s;
+margin-top: 100px;
+}
+.tog:hover{
+    scale: 1.1;
+}
+.ays{
+width: 250px;
+height: 250px;
+margin: auto;
+background-image: url(gift.png);
+background-size: cover;
+transition: 1s;
+margin-top: 100px;
+}
+.ays:hover{
+    scale: 1.1;
+}
+.hur{
+width: 250px;
+height: 250px;
+margin: auto;
+background-image: url(gift.png);
+background-size: cover;
+transition: 1s;
+margin-top: 100px;
+}
+.hur:hover{
+    scale: 1.1;
+}
+.ferid{
+width: 250px;
+height: 250px;
+margin: auto;
+background-image: url(gift.png);
+background-size: cover;
+transition: 1s;
+margin-top: 100px;
+}
+.ferid:hover{
+    scale: 1.1;
+}
+.el{
+width: 250px;
+height: 250px;
+margin: auto;
+background-image: url(gift.png);
+background-size: cover;
+transition: 1s;
+margin-top: 100px;
+}
+.el:hover{
+    scale: 1.1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(0, 0, 0, 0.61);
+    text-shadow: 5px 5px 20px black;
+    transition: 0.6s;
+}
+h1:hover{
+    scale: 1.2;
+}
