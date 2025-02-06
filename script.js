@@ -19,7 +19,7 @@ const togF = (e) => {
 
 tog.addEventListener('click', togF)
 const aysF = (e) => {
-  e.target.style.backgroundImage = 'url(aysGift.png)'
+  e.target.style.backgroundImage = 'url(AysGift.png)'
   e.target.style.width = '335px'
     
 }
